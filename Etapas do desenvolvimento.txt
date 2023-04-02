@@ -1,0 +1,15 @@
+- Criação do banco de dados;
+- Criação das classes de modelo;
+- Criação da conexão com o banco de dados;
+- Criação das classes de controle (Acesso aos dados do banco);
+- Criação da interface gráfica;
+	- Criação da tela principal;
+		- Criação do CellRederer Prazo;
+		- Criação do CellRederer Editar e Deletar;
+	- Criação da tela de Cadastro de Projeto;
+	- Criação da tela de Cadastro de Tarefa;
+- Implementação dos eventos;
+	- Validações;
+- Ajustes finais;
+- Teste da aplicação;
+- Faltou implementar a edição das Tarefas
